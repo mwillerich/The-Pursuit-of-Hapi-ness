@@ -1,0 +1,17 @@
+{
+  "name": "Hapi8App",
+  "version": "0.0.1",
+  "description": "An example Hapi application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matthias Willerich <matthias@die-legendaeren.de>",
+  "license": "BSD",
+  "dependencies": {
+    "catbox-redis": "^1.0.4",
+    "hapi": "^8.1.0",
+    "jade": "^1.8.2",
+    "joi": "^5.1.0"
+  }
+}

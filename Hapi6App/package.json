@@ -1,0 +1,18 @@
+{
+  "name": "Hapi6App",
+  "version": "0.0.1",
+  "description": "An example Hapi application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matthias Willerich <matthias@die-legendaeren.de>",
+  "license": "BSD",
+  "dependencies": {
+    "catbox-redis": "^1.0.4",
+    "hapi": "^6.11.1",
+    "jade": "^1.8.2",
+    "joi": "^4.9.0",
+    "lout": "^5.2.0"
+  }
+}
